@@ -11,7 +11,7 @@ public==0.0.38
 pyTelegramBotAPI==3.2.0
 query-string==0.0.12
 request==0.0.13
-requests==2.18.4
+requests==2.20.0
 setupfiles==0.0.50
 six==1.10.0
 telepot==12.3
